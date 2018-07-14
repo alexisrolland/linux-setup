@@ -1,5 +1,5 @@
 # Linux Setup
-Complete tutorial to setup a Linux virtual machine using **Oracle VirtualBox** and **Ubuntu**. By the end of this tutorial, you will have a fully functional setup ready for developments. Including the following:
+Tutorial to setup a Linux virtual machine for **Python** development using **Oracle VirtualBox** and **Ubuntu**. By the end of this tutorial, you will have a fully functional setup ready for developments. Including the following:
 - **Oracle VirtualBox** installed on your Windows machine
 - **Linux Virtual Machine** running **Ubuntu**
 - **Bidirectional clipboard** enabled to copy and paste data from your Windows host to your Linux guest (and vice-versa)
