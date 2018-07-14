@@ -9,4 +9,4 @@ Complete tutorial to setup a Linux virtual machine using **Oracle VirtualBox** a
 - **Python Virtual Environment** created on your virtual machine
 
 # Getting Started
-See [Wiki](https://github.com/alexisrolland/linux-setup/wiki)
+See step-by-step guide on the [Github Wiki](https://github.com/alexisrolland/linux-setup/wiki) of this repository.
