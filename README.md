@@ -1,5 +1,5 @@
 # Linux Setup
-This project just serves as a repository of recipes to setup a Linux virtual machine using **Oracle VirtualBox** and **Ubuntu**.
+This project just serves as a repository of recipes to setup a **Linux virtual machine** using **Oracle VirtualBox** and **Ubuntu**.
 
 # Getting Started
 See step-by-step guide on the [Github Wiki](https://github.com/alexisrolland/linux-setup/wiki) of this repository.
