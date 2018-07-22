@@ -8,9 +8,9 @@ See step-by-step guide on the [Github Wiki](https://github.com/alexisrolland/lin
 
 * [Download a Virtualization Software](https://github.com/alexisrolland/linux-setup/wiki#download-a-virtualization-software)
 
-* [Create a Virtual Machine](https://github.com/alexisrolland/linux-setup/wiki#create-your-virtual-machine)
+* [Create a Virtual Machine](https://github.com/alexisrolland/linux-setup/wiki#create-a-virtual-machine)
 
-* [Install Ubuntu](https://github.com/alexisrolland/linux-setup/wiki#install-ubuntu-on-your-virtual-machine)
+* [Install Ubuntu](https://github.com/alexisrolland/linux-setup/wiki#install-ubuntu)
 
 * [Enable Bidirectional Clipboard](https://github.com/alexisrolland/linux-setup/wiki#enable-bidirectional-clipboard)
 
